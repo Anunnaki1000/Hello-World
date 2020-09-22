@@ -1,2 +1,2 @@
 # Hello-World
-Short Intro into GirHub
+Short Intro into GitHub
